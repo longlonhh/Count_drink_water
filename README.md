@@ -1,5 +1,6 @@
 # Counts_drink_water
 
+# Đề tài: Ứng dụng đếm số lượng uống nước hằng ngày
 # Ý tưởng:
 Giúp người dùng duy trì thói quen uống đủ nước mỗi ngày. Uống đủ nước rất quan trọng cho sức khỏe nhưng nhiều người lại quên hoặc không ghi lại và theo dõi lượng nước đã uống. Ứng dụng này sẽ giúp người dùng ghi lại lượng nước hằng ngày, nhắc nhở uống nước và theo dõi tiến trình để đảm bảo người dùng đạt được mục tiêu sức khỏe
  # Chức năng chính:
