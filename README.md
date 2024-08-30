@@ -1,1 +1,4 @@
-# Reminds_drink_water
+# Counts_drink_water
+
+#Ý tưởng:
+ 
